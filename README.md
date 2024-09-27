@@ -1,3 +1,3 @@
 # LITA_Class_Documentation
-### E commerce S
+### Project Title: E commerce S
 
