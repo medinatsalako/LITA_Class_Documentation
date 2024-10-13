@@ -41,6 +41,8 @@ This report provides a detailed analysis of the sales performance over a specifi
 
   ### Data Cleaning and Formatting
   Data cleaning and formatting was carried out during the course of this project to achieve  a simple and easy to understand end results/reports
+
+  ### Analysis
     
   
 
