@@ -23,9 +23,14 @@ This report provides a detailed analysis of the sales performance over a specifi
 
     kindly note that this data contains a total number of 30,800 records
 
-    ### Project Objective
+  ### Project Objective
     The objective of this sales analysis report is to evaluate the performance of the company's sales activities over a specified period. It aims to identify key trends, patterns and areas of improvements by analysing data.
-    This data will focus on the following
+    This report will focus on the following areas ;
+    1. Performance Measurement
+    2. Identify top and under performance
+   
+     ### Tool Used
+       Microsoft Excel was used for data cleaning, formatting, summarization, analysis nd visulization of this project
     
   
 
