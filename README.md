@@ -30,7 +30,7 @@ This report provides a detailed analysis of the sales performance over a specifi
     2. Identify top and under performance
    
      ### Tool Used
-       Microsoft Excel was used for data cleaning, formatting, summarization, analysis nd visulization of this project
+       Microsoft Excel was used for data cleaning, formatting, summarization, analysis and visualization of this project
     
   
 
